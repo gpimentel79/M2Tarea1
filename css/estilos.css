@@ -2,20 +2,31 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     }
 h1{
-    background-color:blue;
-    font-family: sans-serif;
+    
+    font-family: 'Dancing Script', cursive;
     text-transform: uppercase;
+    
 }
 h3{
     background-color: aqua;
 }    
    
 h4{
-    color: darkgrey;
+    color: black;
 }
 
 .resaltado{
     font-weight: bold;
 }
 .impar{
-    background-color: lightgray;}
+    background-color: lightskyblue;}
+/* DiV para el Nombre y Apellido del curriculum */
+.cv1{
+    width: 100%;
+    border-radius: 15px;
+    background-color: lightskyblue;
+    padding-left: 10px;   
+    box-shadow: -5px -5px 15px 10px black ;
+
+}   
+
